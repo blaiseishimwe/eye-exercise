@@ -2,7 +2,7 @@ Eye exercise
 
 In this activity, I have created a web page with two eyes that follow the mouse movement. 
 This dynamic experience required a combination of HTML, CSS, and JavaScript.
-To visualize this, clone the eye exercise repository and load the HTML index file in your browser. 
+To visualize this, follow the link: https://blaiseishimwe.github.io/eye-exercise/
 You will notice that whenever the mouse is moved, the eyeballs follow the mouse's movement. 
 The set of eyes is designed using CSS styles, and the onmousemove event generates the eyeball movement.  
 I will eventually add more facial features such as eyebrows, nose, etc.
